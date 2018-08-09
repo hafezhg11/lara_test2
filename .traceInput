@@ -1,0 +1,7 @@
+DB::table('users')->insert([['title'=>'title 1 user'],['title'=>'title 2 user']]);
+
+$data = array(
+    array('title'=>'title user 1', 'firstname'=> 'ali'),
+    array('title'=>'title user 2', 'firstname'=> 'hasan')
+);
+DB::table('users')->insert($data);
