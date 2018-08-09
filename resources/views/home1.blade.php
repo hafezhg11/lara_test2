@@ -49,7 +49,7 @@
                 {{--</div>--}}
 
                 <div class="card">
-                    <img src='{{url("/assets/img/logo.png")}}' alt='Al Rafedain'>
+                    <img src='{{url("/assets/img/logo.png")}}' alt='Select Language'>
                     <div style="text-align: center">
                         {{--<p style="width: auto;">--}}
                             <a href="/ar" style="margin: 15px;color: #7a869d">العربية</a>
